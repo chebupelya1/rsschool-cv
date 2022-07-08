@@ -1,20 +1,20 @@
 # Marina Osinceva
 --------------------------------
 ![my photo] (/img/photo.png "Мое фото")
-### Contact
+## Contact
 chebupelya on Discord
 
-### About me
+## About me
 I'm 27 y.o. Studied and work now in electrical engineering as engineer. As a hobby i'm stydying html and css at this course.
 
-### Skills
+## Skills
 Java, HTML, CSS, VS Code
 
-### Experience
+## Experience
 Empty
 
-### Education 
+## Education 
 RS School, basic course about HTML and CSS on hexlet
 
-### Languages
+## Languages
 English A2
