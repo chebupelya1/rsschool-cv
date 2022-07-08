@@ -1,7 +1,6 @@
 # Marina Osinceva
 Junior Fronted Developer
 ![my photo] (/img/photo.png "Мое фото")
-=================================================================
 
 ## Contact
 * **Discord**: chebupelya#2755
@@ -27,6 +26,7 @@ Empty
 1. Ural Fediral University, Electrical engineering, 
 bachelor
 2. Ural State University of Railway Transport,Electrical engineering, master
+
 ## Languages
 * English - A2 (B1 in process)
 * Russian - Native
