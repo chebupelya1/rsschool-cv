@@ -1,6 +1,6 @@
 # Marina Osinceva
 --------------------------------
-
+![my photo] (/img/photo.png "Мое фото")
 ### Contact
 chebupelya on Discord
 
